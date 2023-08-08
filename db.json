@@ -1,0 +1,115 @@
+{
+    "questions":  [
+        {
+          "id": 1,
+          "question": "Who is the current Indian cricket team captain?",
+          "correctanswer": "Rohit Sharma",
+          "options": [
+            "Virat Kolhi",
+            "Rohit Sharma",
+            "M S Dhoni",
+            "Sanju Samson"
+          ]
+        },
+        {
+          "id": 2,
+          "question": "How many days are there in a year?",
+          "correctanswer": "365",
+          "options": [
+            "360",
+            "364",
+            "350",
+            "365"
+          ]
+        },
+        {
+            "id": 3,
+            "question": "Which Animal is the National Animal of an India?",
+            "correctanswer": "Tiger",
+            "options": [
+              "Lion",
+              "Cow",
+              "Tiger",
+              "Horse"
+            ]
+          },
+          {
+            "id": 4,
+            "question": "How many players are in a football team??",
+            "correctanswer": "11",
+            "options": [
+              "11",
+              "9",
+              "10",
+              "12"
+            ]
+          },
+          {
+            "id": 5,
+            "question": "Where is the Eiffel Tower located?",
+            "correctanswer": "Paris, France",
+            "options": [
+              "Rome, Italy",
+              "Madrid, Spain",
+              "Durango, Mexico",
+              "Paris, France"
+            ]
+          },
+          {
+            "id": 6,
+            "question": "How many Continents are there?",
+            "correctanswer": "7",
+            "options": [
+              "7",
+              "5",
+              "9",
+              "8"
+            ]
+          },
+          {
+            "id": 7,
+            "question": "How many months have 31 days?",
+            "correctanswer": "7",
+            "options": [
+              "6",
+              "7",
+              "8",
+              "9"
+            ]
+          },
+          {
+            "id": 8,
+            "question": "Which city is the financial capital city of India??",
+            "correctanswer": "Mumbai",
+            "options": [
+              "Delhi",
+              "Mumbai",
+              "Gujarat",
+              "Kolkata"
+            ]
+          },
+          {
+            "id": 9,
+            "question": "Who is the king of Bollywood?",
+            "correctanswer": "Shah Rukh Khan",
+            "options": [
+              "Salman Khan",
+              "Amir Khan",
+              "Akshay Kumar",
+              "Shah Rukh Khan"
+            ]
+          },
+          {
+            "id": 10,
+            "question": "What is the name of the oldest lake in the world?",
+            "correctanswer": "Lake Baikal",
+            "options": [
+              "Lake Huron",
+              "Lake Malawi",
+              "Lake Baikal",
+              "Lake Victoria"
+            ]
+          }
+      ]
+      
+}
