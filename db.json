@@ -35,7 +35,7 @@
           },
           {
             "id": 4,
-            "question": "How many players are in a football team??",
+            "question": "How many players are in a football team?",
             "correctanswer": "11",
             "options": [
               "11",
@@ -79,7 +79,7 @@
           },
           {
             "id": 8,
-            "question": "Which city is the financial capital city of India??",
+            "question": "Which city is the financial capital city of India?",
             "correctanswer": "Mumbai",
             "options": [
               "Delhi",
